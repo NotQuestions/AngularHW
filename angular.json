@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularMay2020"
+    }
+  },
+  "defaultProject": "AngularMay2020",
+  "cli": {
+    "analytics": "7ca0b7a9-5afc-4ee3-93d7-d0f8f9632b46"
+  }
 }
